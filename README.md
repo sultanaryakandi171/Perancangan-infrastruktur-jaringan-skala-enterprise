@@ -5,7 +5,7 @@ Repositori ini berisi dokumentasi lengkap dan file simulasi Cisco Packet Tracer 
 ## 📂 Struktur dan Isi Repositori
 
 ### 1. Publikasi Ilmiah Tugas Akhir (IoT & WSN)
-* **`Tautan Jurnal Resmi`**: [Evaluasi Kinerja Sistem WSN Berbasis ESP32 dengan Topologi Star dan Mesh Multi-Hop (Jurnal Litek)](https://pnl.ac.id)
+* **`Tautan Jurnal Resmi`**: [Evaluasi Kinerja Sistem WSN Berbasis ESP32 dengan Topologi Star dan Mesh Multi-Hop (Jurnal Litek)](https://ejournal.pnl.ac.id/index.php/litek/article/view/121).
 * **Teknologi Utama:**
   * **Wireless Sensor Network (WSN)** menggunakan 6 unit node ESP32.
   * **Topologi Star & Mesh Multi-Hop** dengan pengujian protokol ESP-NOW dan PainlessMesh (Self-healing).
